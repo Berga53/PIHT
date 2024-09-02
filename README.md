@@ -7,7 +7,7 @@ This repo contains the source code for PIHT.
 The code can easily be adapted for other applications.
 
 ## Exp
-```functions```contains the tests carried out for the paper cited below, and some other preliminar test.
+```exp```contains the tests carried out for the paper cited below, and some other preliminar test.
 
 ## Citations
 If you find our work interesting or the repo useful, please consider citing :
