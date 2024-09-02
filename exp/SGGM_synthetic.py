@@ -1,4 +1,5 @@
 from functions.SGGM_functions import *
+import matplotlib.pyplot as plt
 
 def generate_synthetic_data(n_samples, n_features, delta = 0.1, K = 5, random_state = 0):
 
