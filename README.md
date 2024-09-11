@@ -12,10 +12,13 @@ The code can easily be adapted for other applications.
 ## Citations
 If you find our work interesting or the repo useful, please consider citing :
 ```
-@article{,
-  title={Probabilistic Iterative Hard Thresholding for Sparse Learning},
-  author={},
-  journal={},
-  year={2024}
+@misc{bergamaschi2024probabilisticiterativehardthresholding,
+      title={Probabilistic Iterative Hard Thresholding for Sparse Learning}, 
+      author={Matteo Bergamaschi and Andrea Cristofari and Vyacheslav Kungurtsev and Francesco Rinaldi},
+      year={2024},
+      eprint={2409.01413},
+      archivePrefix={arXiv},
+      primaryClass={math.OC},
+      url={https://arxiv.org/abs/2409.01413}, 
 }
 ```
